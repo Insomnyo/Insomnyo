@@ -4,7 +4,6 @@
 <div align="center">
 
 <a href="https://github.com/Insomnyo">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
 </a>
 
 [![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
