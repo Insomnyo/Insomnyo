@@ -47,7 +47,7 @@
 
 <div align="Center">
 
-| Insomnyo's Stats | Ultimate Streak |
+| Insomnyo's Stats | 
 | ------------- | ------------- |
 ![Insomnyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Insomnyo&show_icons=true&theme=tokyonight)
 | Most Lang |
