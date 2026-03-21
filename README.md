@@ -49,8 +49,7 @@
 
 | Insomnyo's Stats | Ultimate Streak |
 | ------------- | ------------- |
-| ![Insomnyo's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![Insomnyo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
-
+![Insomnyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Insomnyo&show_icons=true&theme=tokyonight)
 | Most Lang |
 | ----------|
 | ![Insomnyo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
